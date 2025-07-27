@@ -12,14 +12,8 @@
 
 ### 🐾 About me
 
-- 🏫  Computer Engineering @ University of Waterloo  
-- 🐍  Fluent in <code>Python</code>; occasionally moon‑lights in <code>C/C++</code>, TypeScript, and mysterious YAML incantations  
-- 🧰  Enjoy wiring 🍓 Raspberry Pis to anything that beeps, blinks, or spins  
-- ⚡  Current obsession: turning wind‑tunnel data into pretty dashboards **before** coffee gets cold  
-- 🐱  Personal assistant: a fluffy QA engineer who sleeps on my keyboard
+-   Computer Engineering @ University of Waterloo  
+-   Fluent in <code>Python</code>; occasionally moon‑lights in <code>C/C++</code>, TypeScript, and mysterious YAML incantations  
+-   Personal assistant: a fluffy QA engineer who sleeps on my keyboard
 
 
-### 📊  Small but mighty contribution graph
-
-```text
-last year  🟩 20 commits    🍃 Working on quality > quantity
