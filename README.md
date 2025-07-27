@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <em>🛠  Embedded tinkerer by day — 🐈‍⬛ cat staff by night — ☕️ caffeine reactor 24/7.</em>
+  <em>🛠  Embedded tinkerer by day — 🐈‍⬛ cat staff by night .</em>
 </p>
 
 ---
